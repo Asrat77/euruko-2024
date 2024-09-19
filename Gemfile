@@ -58,4 +58,9 @@ end
 
 gem "browser", "~> 5.3"
 
+
+gem "litestream", "~> 0.11.2"
+
 gem "faker", "~> 3.4"
+
+gem "minio", "~> 0.4.0"
